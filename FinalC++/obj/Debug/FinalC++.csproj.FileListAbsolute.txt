@@ -1,0 +1,11 @@
+C:\Users\Cesar\Documents\CesarEnri\universidad\C++\FinalC++\FinalC++\bin\Debug\FinalC++.exe.config
+C:\Users\Cesar\Documents\CesarEnri\universidad\C++\FinalC++\FinalC++\bin\Debug\FinalC++.exe
+C:\Users\Cesar\Documents\CesarEnri\universidad\C++\FinalC++\FinalC++\bin\Debug\FinalC++.pdb
+C:\Users\Cesar\Documents\CesarEnri\universidad\C++\FinalC++\FinalC++\obj\Debug\FinalC++.csprojResolveAssemblyReference.cache
+C:\Users\Cesar\Documents\CesarEnri\universidad\C++\FinalC++\FinalC++\obj\Debug\FinalC__.Form1.resources
+C:\Users\Cesar\Documents\CesarEnri\universidad\C++\FinalC++\FinalC++\obj\Debug\FinalC__.Properties.Resources.resources
+C:\Users\Cesar\Documents\CesarEnri\universidad\C++\FinalC++\FinalC++\obj\Debug\FinalC++.csproj.GenerateResource.Cache
+C:\Users\Cesar\Documents\CesarEnri\universidad\C++\FinalC++\FinalC++\obj\Debug\FinalC++.exe
+C:\Users\Cesar\Documents\CesarEnri\universidad\C++\FinalC++\FinalC++\obj\Debug\FinalC++.pdb
+C:\Users\Cesar\Documents\CesarEnri\universidad\C++\FinalC++\FinalC++\obj\Debug\FinalC__.Form2.resources
+C:\Users\Cesar\Documents\CesarEnri\universidad\C++\FinalC++\FinalC++\obj\Debug\FinalC__.Form3.resources
